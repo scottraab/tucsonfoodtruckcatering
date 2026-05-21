@@ -729,7 +729,7 @@ blockquote { font-family: var(--font-head); font-size: 1.35rem; font-style: ital
 
 /* ── FOOD PHOTO STRIP (homepage) ── */
 .food-strip { display: flex; gap: 0.5rem; overflow: hidden; border-radius: var(--radius-lg); height: 200px; margin: 2.5rem 0; }
-.food-strip-item { flex: 1; position: relative; min-width: 0; overflow: hidden; }
+.food-strip-item { flex: 1; position: relative; min-width: 0; overflow: hidden; cursor: pointer; text-decoration: none; }
 .food-strip-item img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s ease; }
 .food-strip-item:hover img { transform: scale(1.06); }
 .food-strip-label {
