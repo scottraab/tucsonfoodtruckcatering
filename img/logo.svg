@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" fill="none">
+  <!-- Truck body -->
+  <rect x="8" y="22" width="200" height="42" rx="5" fill="#0f2044"/>
+  <!-- Truck cab -->
+  <path d="M208 38 L208 64 L258 64 L258 48 L238 38 Z" fill="#0f2044"/>
+  <!-- Cab window -->
+  <path d="M214 42 L214 54 L250 54 L250 48 L234 42 Z" fill="#4a9cc8" opacity="0.7"/>
+  <!-- Serving window -->
+  <rect x="40" y="28" width="70" height="28" rx="3" fill="#c8922a"/>
+  <rect x="44" y="32" width="62" height="20" rx="2" fill="#fdf3e0"/>
+  <!-- Awning stripes -->
+  <rect x="40" y="24" width="70" height="7" rx="2" fill="#c8922a"/>
+  <line x1="52" y1="24" x2="52" y2="31" stroke="#0f2044" stroke-width="1.5"/>
+  <line x1="64" y1="24" x2="64" y2="31" stroke="#0f2044" stroke-width="1.5"/>
+  <line x1="76" y1="24" x2="76" y2="31" stroke="#0f2044" stroke-width="1.5"/>
+  <line x1="88" y1="24" x2="88" y2="31" stroke="#0f2044" stroke-width="1.5"/>
+  <line x1="100" y1="24" x2="100" y2="31" stroke="#0f2044" stroke-width="1.5"/>
+  <!-- Hot dog icon in window -->
+  <ellipse cx="75" cy="42" rx="18" ry="7" fill="#c8922a"/>
+  <ellipse cx="75" cy="42" rx="13" ry="4.5" fill="#e4a93c"/>
+  <path d="M63 42 Q75 36 87 42" stroke="#0f2044" stroke-width="1" fill="none" opacity="0.4"/>
+  <!-- Wheels -->
+  <circle cx="55" cy="66" r="10" fill="#1a3260"/>
+  <circle cx="55" cy="66" r="6" fill="#2d2c2a"/>
+  <circle cx="55" cy="66" r="2.5" fill="#c8922a"/>
+  <circle cx="175" cy="66" r="10" fill="#1a3260"/>
+  <circle cx="175" cy="66" r="6" fill="#2d2c2a"/>
+  <circle cx="175" cy="66" r="2.5" fill="#c8922a"/>
+  <circle cx="230" cy="66" r="10" fill="#1a3260"/>
+  <circle cx="230" cy="66" r="6" fill="#2d2c2a"/>
+  <circle cx="230" cy="66" r="2.5" fill="#c8922a"/>
+  <!-- Ground line -->
+  <line x1="8" y1="76" x2="268" y2="76" stroke="#c8922a" stroke-width="1.5" opacity="0.4"/>
+  <!-- Steam wisps -->
+  <path d="M68 28 Q66 23 68 18 Q70 13 68 8" stroke="#e4a93c" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <path d="M75 27 Q73 22 75 17 Q77 12 75 7" stroke="#e4a93c" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <path d="M82 28 Q80 23 82 18 Q84 13 82 8" stroke="#e4a93c" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.6"/>
+</svg>
